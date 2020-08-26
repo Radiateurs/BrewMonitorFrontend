@@ -1,0 +1,24 @@
+{
+  "name": "brewmonitorfrontend",
+  "version": "1.0.0",
+  "description": "Web Server for BrewMonitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radiateurs/BrewMonitorFrontend.git"
+  },
+  "keywords": [
+    "brewmonitor",
+    "react",
+    "reactjs"
+  ],
+  "author": "Pierre-Marie Danieau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radiateurs/BrewMonitorFrontend/issues"
+  },
+  "homepage": "https://github.com/Radiateurs/BrewMonitorFrontend#readme"
+}
